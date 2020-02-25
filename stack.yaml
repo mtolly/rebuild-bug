@@ -1,0 +1,5 @@
+packages:
+- 'lib'
+- 'exe1'
+- 'exe2'
+resolver: lts-15.1
