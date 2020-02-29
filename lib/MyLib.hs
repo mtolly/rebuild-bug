@@ -1,4 +1,4 @@
 module MyLib where
 
 magicNumber :: Int
-magicNumber = 456
+magicNumber = 123
